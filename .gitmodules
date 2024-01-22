@@ -11,5 +11,5 @@
 	path = order-API
 	url = https://github.com/yahyahouse/order-API
 [submodule "api-gateway"]
-    path = api-gateway
-    url =https://github.com/yahyahouse/api-gateway
+	path = api-gateway
+	url = https://github.com/yahyahouse/api-gateway
