@@ -1,6 +1,3 @@
-[submodule "microservice-orders"]
-	path = microservice-orders
-	url = https://github.com/yahyahouse/microservice-orders
 [submodule "microservice-crm"]
 	path = microservice-crm
 	url = https://github.com/yahyahouse/microservice-crm
@@ -13,3 +10,6 @@
 [submodule "order-API"]
 	path = order-API
 	url = https://github.com/yahyahouse/order-API
+[submodule "api-gateway"]
+    path = api-gateway
+    url =https://github.com/yahyahouse/api-gateway

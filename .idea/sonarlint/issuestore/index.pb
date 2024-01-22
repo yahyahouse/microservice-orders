@@ -41,3 +41,5 @@ o
 ?order.api/src/main/java/com/phincon/order/api/model/Orders.java,2\8\288a15ca782ce143f52b9278136e08ec97d0fc0a
 z
 Jorder.api/src/main/java/com/phincon/order/api/configuration/JmsConfig.java,8\e\8eb2cb716e478f191a72bfac75d2264d458bff77
+;
+.gitmodules,7\4\7445606fbf8f3683cd42bdc54b05d7a0bc2dfc44
