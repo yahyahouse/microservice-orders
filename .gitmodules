@@ -1,0 +1,15 @@
+[submodule "microservice-orders"]
+	path = microservice-orders
+	url = https://github.com/yahyahouse/microservice-orders
+[submodule "microservice-crm"]
+	path = microservice-crm
+	url = https://github.com/yahyahouse/microservice-crm
+[submodule "microservice-notif"]
+	path = microservice-notif
+	url = https://github.com/yahyahouse/microservice-notif
+[submodule "order-orchestration"]
+	path = order-orchestration
+	url = https://github.com/yahyahouse/order-orchestration
+[submodule "order-API"]
+	path = order-API
+	url = https://github.com/yahyahouse/order-API
